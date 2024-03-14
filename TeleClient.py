@@ -5,7 +5,7 @@ import os.path
 
 # Use your own values from my.telegram.org
 api_id = 1168521
-api_hash = '9cc8ebf8df41a5a8d5e9c0b8dd9708fc'
+api_hash = ''
 client = TelegramClient('anon', api_id, api_hash)
 MyChat = -487653262
 
